@@ -104,7 +104,7 @@
   "PlanetX_AILens|block": "PlanetX_AI-Lens",
   "PlanetX_AILens.delASRLearn|block": "ASR sensor slet lærte ting",
   "PlanetX_AILens.setASRLearn|block": "ASR sensor indtast læringsmodel",
-  "PlanetX_AILens.onASR|block": "ASR sensor lyt %vocabulary",
+  "PlanetX_AILens.onASR|block": "ASR sensor hører %vocabulary",
   "PlanetX_AILens.vocabularyList.Hi_Shaun|block": "Hi, Shaun",
   "PlanetX_AILens.vocabularyList.Turn_on_lights|block": "Lights on",
   "PlanetX_AILens.vocabularyList.Turn_off_lights|block": "Lights off",
